@@ -1,4 +1,4 @@
-package com.stankowski.recruiter.demo;
+package com.stankowski.recruiter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
